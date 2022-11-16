@@ -1,0 +1,62 @@
+.usersidebar{
+    height:46rem;
+    width:16%;
+    border:1px solid gray;
+    background-color: #2f1fde;
+    color: black;
+    position: fixed;
+    z-index: 10;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+}
+.image{
+    display: flex;
+    margin-top: 10%;
+    flex-direction: column;
+}
+.image h3{
+    margin: 5%;
+}
+.image img{
+    height:50px;
+    width: 50px;
+    border: 1px solid gray;
+    border-radius: 50%;
+}
+.li{
+    color:#fff;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    margin-left: 5%;
+}
+.List{
+    margin-top: 30%;
+}
+
+.lists li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    /* justify-content:center; */
+    /* margin-left: 20%; */
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+.li:hover{
+    color:#000;
+}
+.li3{
+    margin-bottom:-5%;
+}
+.li4{
+    margin-bottom:30rem;
+}
+.lists li img{
+    height: 50px;
+    width: 50px;
+    margin-right: 0px;
+}

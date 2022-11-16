@@ -1,0 +1,98 @@
+{
+  "books": [
+    {
+      "title": "Wings of Fire",
+      "author": "Apj",
+      "rating": 9,
+      "id": 2
+    },
+    {
+      "title": "The India Story",
+      "author": "Bimal Jalal",
+      "rating": 7,
+      "id": 3
+    },
+    {
+      "title": "A place Called Home",
+      "author": "Preethi Shenoy",
+      "rating": 6,
+      "id": 4
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Panlo coelho",
+      "rating": 6,
+      "id": 5
+    },
+    {
+      "title": "Sherlock Holmes",
+      "author": "Sir Arthur Conan Doyle",
+      "rating": 6,
+      "id": 6
+    },
+    {
+      "title": "The Psychology og Money",
+      "author": "Morgan Housel",
+      "rating": 6,
+      "id": 7
+    },
+    {
+      "title": "Do Epic Shit",
+      "author": "Ankur warikoo",
+      "rating": 10,
+      "id": 8
+    },
+    {
+      "title": "Atomic habits",
+      "author": "James clear",
+      "rating": 7,
+      "id": 9
+    },
+    {
+      "title": "The Subtle Art of Not giving fu*k",
+      "author": "Mark Manson",
+      "rating": 8,
+      "id": 10
+    },
+    {
+      "author": "fgs",
+      "title": "ewgywge",
+      "rating": "9",
+      "id": 11
+    },
+    {
+      "author": "tdy",
+      "title": "tyfyt",
+      "rating": "6",
+      "id": 12
+    },
+    {
+      "author": "gewvg",
+      "title": "whubus",
+      "rating": "6",
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "name": "user",
+      "email": "user@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "rahul",
+      "email": "sbxja",
+      "id": 2
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "hbwejs",
+      "email": "hwgdwjh",
+      "id": 4
+    }
+  ]
+}

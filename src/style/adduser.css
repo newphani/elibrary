@@ -1,0 +1,75 @@
+.adduser{
+    width: 60%;
+    position: absolute;
+    right:15%;
+    display: flex;
+    justify-content: center;
+}
+.add{
+    border: 0.1px solid rgb(215, 200, 200);
+    padding: 1rem;
+    width: 20rem;
+    
+    background-color: #fff;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    z-index:1;
+    margin-top: 10%;
+}
+.fname{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10%;
+}
+.lname{
+    margin-top: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10%;
+}
+.emailid{
+    margin-top: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10%;
+}
+.userpassword{
+    margin-top: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10%;
+}
+.fname input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    margin-top: 3%;
+}
+.lname input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    margin-top: 3%;
+}
+.emailid input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    margin-top: 3%;
+}
+.userpassword input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    margin-top: 3%;
+}
+.userbtn button{
+    background-color: #076905;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 4px;
+} 

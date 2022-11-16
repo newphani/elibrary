@@ -1,0 +1,54 @@
+.booklist{
+    display: flex;
+    width: 70%;
+    justify-content: space-evenly;
+    position: absolute;
+    left: 20%;
+    /* background-image: url("https://cdn.pixabay.com/photo/2015/01/07/16/37/wood-591631_960_720.jpg"); */
+    margin-top: 2%;
+    margin-left: 35px;
+}
+.bookList{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 10%;
+}
+.booklist h1{
+ border-bottom: black;
+}
+.list{
+    border: 1px solid gray;
+    margin-right: 2%;
+    padding: 10px;
+    max-width: 15rem;
+    min-width: 15rem;
+    margin-top: 3%;
+    border-radius: 1rem;
+    background-color: white;
+    outline: none;
+    border: none;
+    box-shadow: 2px 2px 24px 0 rgb(0 0 0 / 10%);
+    margin-bottom: 2%;
+}
+.btn{
+    width: 2rem;
+    justify-content: center;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+   background-color: #1faed6;
+}
+.btn1{
+    width: 4rem;
+    justify-content: center;
+    /* border-radius: 10px; */
+    border: 1px solid #ed1443;
+    /* outline: none; */
+
+   background-color:#fff ;
+   color: #000;
+}
+.li{
+    margin-top: 5%;
+}

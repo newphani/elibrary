@@ -1,0 +1,64 @@
+.addbook{
+    width: 60%;
+    position: absolute;
+    right:15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+ .addb{
+    border: 0.1px solid rgb(215, 200, 200);
+    padding: 1rem;
+    width: 20rem;
+    margin: auto;
+    background-color: #fff;
+}
+.formbook{
+    display: flex;
+    flex-direction: column;
+    z-index:1;
+    margin-top: 10%;
+}
+.author{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10%;
+}
+.titlebook{
+    margin-top: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10%;
+}
+.ratingbook{
+    margin-top: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10%;
+}
+.author input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    margin-top: 3%;
+}
+.titlebook input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    margin-top: 3%;
+}
+.ratingbook input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    margin-top: 3%;
+}
+.userbtn button{
+    background-color: #076905;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 4px;
+}  

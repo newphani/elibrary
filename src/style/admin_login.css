@@ -1,0 +1,79 @@
+.admlogin{
+    width: 100%;
+    display: flex;
+    /* margin: auto; */
+    background-image: url("https://cdn.pixabay.com/photo/2015/08/18/09/59/brazilwood-893551_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.admin{
+    display: flex;
+     margin: auto;
+     margin-top: 10%;
+     border: 1px solid rgb(9, 9, 9);
+     width: 30%;
+     height: 30rem;
+     justify-content: center;
+     border-radius: 15px 50px; 
+     background-color: #fff;
+     
+     /* align-items: center; */
+}
+.head{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+.login_form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border: 1px solid gray;
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+}
+.email input{
+    /* border: none;
+    outline: none;
+    border-bottom: 1px solid gray; */
+    padding: 13px;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    width: 15rem;
+}
+.password{
+    display: flex;
+    flex-direction: column; 
+}
+.password input{
+    padding: 13px;
+    margin-top: 5%;
+    /* margin-bottom: 10%; */
+    width: 15rem;
+}
+.btn{
+    display: flex;
+    justify-content:end;
+    margin-top: 8%;
+}
+.btn button{
+    /* border-radius: 12px; */
+    width: 40%;
+    padding: 9px;
+    background-color:#2538b5;
+    color: #fff;
+    font-style: Bold;
+}
+.forgotpass{
+    margin-top: 3%;
+}
+.forgotpass a{
+    text-decoration: none;
+    color: #000;
+}

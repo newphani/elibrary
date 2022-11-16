@@ -1,0 +1,76 @@
+.homepg{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:url("https://cdn.pixabay.com/photo/2017/08/07/09/18/architecture-2601837_960_720.jpg");
+    background-size:cover;
+    height: 100vh;
+} 
+.home{
+    /* display: flex; */
+    width:30%;
+    margin-bottom: 32%;
+    height: 30%;
+    margin:auto;
+    /* border: 1px solid gray; */
+    background-color: rgb(239, 238, 237);
+    margin: auto;
+}
+.lib{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10%;
+   border-bottom: #000;
+}
+/* .name{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-style: italic;
+    font-family: sans-serif;
+    color:#fff
+} */
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    margin-top: 10%;
+}
+.links img{
+    width:60px;
+    height:60px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    margin-right: 10px;
+    border-color: green;;
+}
+.btn_admin{
+    display: flex;
+    text-decoration: none;
+    border: 1px solid rgb(10, 8, 8);
+    width: auto;
+    padding: 5px;
+    color: rgb(232, 137, 4);
+    background-color: #fff;
+    /* border: none; */
+    outline: none;
+    border-radius: 5px;
+    margin-right: 5%;
+    border-color: orange;;
+}
+.btn_user{
+    display: flex;
+    text-decoration: none;
+    border: 1px solid gray;
+    width: auto;
+    padding: 5px;
+    color: rgb(26, 200, 17);
+    background-color: #fff;
+    /* border: none; */
+    outline: none;
+    border-radius: 5px;
+    border-color: green;;
+}

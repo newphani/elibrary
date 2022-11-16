@@ -1,0 +1,81 @@
+.info{
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 15%;
+}
+.first{
+ justify-content: center;
+ align-items: center;
+ position: relative;
+ margin-bottom: 22rem;
+}
+ .img{ 
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    position: relative;
+} 
+.img img{
+    width:70rem;
+    height: 30rem;
+    margin-top: 5%;
+    margin-left: 11%;
+    position: relative;
+}
+.explore{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    border-radius: 1rem;
+    width: 35rem ;
+    box-shadow: 2px 2px 24px 0 rgb(0 0 0 / 10%);
+    margin-left:10%;
+    margin:0 37%;
+    background: #fff;
+    border: none;
+    outline:none;
+    position:absolute;
+    z-index: 1;
+    top: 22rem;
+    padding: 1rem;
+    /* background: #FFF;
+    box-shadow: 2px 2px 24px 0 rgb(0 0 0 / 10%);
+    display: inline-block;
+    margin: 0 auto;
+    margin-top: -132px;
+    padding: 24px 33px 0;
+    text-align: left;
+    width: 75%; */
+}
+/* .magazine{
+    position: relative !important;
+    margin-bottom: 10rem;
+} */
+.explore a{
+    margin-bottom: 2%;
+}
+.second{
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 50%; */
+}
+.third{
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    /* margin-bottom: 30%; */
+    display: flex;
+    flex-direction: column;
+    /* margin: auto; */
+    margin-left: 25%;
+}
+.fourth{
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 30%; */
+    margin-bottom: 30%;
+}
