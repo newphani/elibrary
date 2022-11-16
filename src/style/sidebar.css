@@ -46,20 +46,24 @@
     margin-top: 20%;
     margin-bottom: 10%;
 }
-.li:hover{
+li:hover{
     color:#000;
 }
 .li1{
-    margin-bottom:5%
+    margin-bottom:5%;
 }
 .li2{
-    margin-bottom:5%
+    margin-bottom:5%;
 }
 .li3{
-    margin-bottom:5%
+    margin-bottom:5%;
 }
 .li4{
-    margin-bottom:5%
+    margin-top:5%;
+}
+.li5{
+    margin-top:5%;
+    font-size:30rem;
 }
 .lists li img{
     height: 50px;
